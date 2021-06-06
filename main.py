@@ -3,7 +3,7 @@ from snake import *
 from food import Food
 
 pygame.init()
-bounds = (900, 450)
+bounds = (900, 440)
 screen = pygame.display.set_mode(bounds)
 
 block_size = 20
