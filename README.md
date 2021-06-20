@@ -14,4 +14,4 @@ It's a little laggy on Replit, so if you want to get the best experience out of 
 1. Python
 2. Pygame (easily downloadable library)
 
-Clone this repository and locally run snake.py.
+Clone this repository and locally run main.py.
